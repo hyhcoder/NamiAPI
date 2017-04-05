@@ -2,8 +2,8 @@
 
 * [前言](README.md)
 * [开始使用](1.开始使用/README.md)
-   *  [Linux服务器部署](1.开始使用/Linux服务器部署.md)
-   *  [Windows服务器部署](1.开始使用/Windows部署使用.md)
+   *  [Linux服务器部署](1.开始使用/Linux部署.md)
+   *  [Windows服务器部署](1.开始使用/Windows部署.md)
    *  [Mac OS X 部署](1.开始使用/Mac OS X部署.md)
 * [简单案例](2.简单案例/简单案例.md)
 * [目录介绍](3.目录介绍/目录介绍.md)
